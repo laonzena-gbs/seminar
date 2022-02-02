@@ -27,7 +27,7 @@
 
 ---
 
-## 3 설명
+## 3 부가 설명
 ### 3-1 repository
 본 repositiory는 파이썬 세미나를 위해 제작되었습니다.
 각종 예제 코드를 삽입할 예정이고 새로 필요한 내용이 있으면 주기적으로 업데이트될 예정입니다.
@@ -35,10 +35,16 @@
 
 ---
 
-## 4 기타
-설명은 주기적으로 업데이트됩니다.
-설명, 코드 내 오타나 더 나은 개선점을 찾으셨다면 Issues 항목에 등록해주세요. 확인후 필요하다 판단될 경우에 업데이트하겠습니다.
+## 4 코드 설명
+### 4-1 Hello, World!
+여기에 텍스트를 추가해야 함
 
-모든 지적재산물의 저작권은 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/PD-icon-black.svg/196px-PD-icon-black.svg.png" alt="c" width="20" height="20"/> The Unlicense를 따릅니다
+---
+
+## 5 기타
+설명은 주기적으로 업데이트됩니다.
+설명, 코드 내 오타나 더 나은 개선점을 찾으셨다면 [Issues](https://github.com/laonzena-gbs/seminar/issues) 항목에 등록해주세요. 확인후 필요하다 판단될 경우에 업데이트하겠습니다.
+
+모든 지적재산물의 저작권은 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/PD-icon-black.svg/196px-PD-icon-black.svg.png" alt="c" width="20" height="20"/> The Unlicense를 따릅니다.
 
 ---
