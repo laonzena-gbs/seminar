@@ -21,8 +21,7 @@
 
 
 ### 2-2 PPT 다운로드
-    링크는 곧 준비하겠습니다.
-    https://
+    https://github.com/laonzena-gbs/seminar/blob/main/00%20%ED%8C%8C%EC%9D%B4%EC%8D%AC/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%84%B8%EB%AF%B8%EB%82%98.pdf
 
 
 ---
