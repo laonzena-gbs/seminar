@@ -43,7 +43,7 @@
 
 ## 5 기타
 설명은 주기적으로 업데이트됩니다.
-설명, 코드 내 오타나 더 나은 개선점을 찾으셨다면 [Issues](https://github.com/laonzena-gbs/seminar/issues) 항목에 등록해주세요. 확인후 필요하다 판단될 경우에 업데이트하겠습니다.
+설명, 코드 내 오타나 더 나은 개선점을 찾으셨다면 [Issues](https://github.com/laonzena-gbs/seminar/issues) 항목에 등록해주세요. 확인후 업데이트하겠습니다.
 
 모든 지적재산물의 저작권은 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/PD-icon-black.svg/196px-PD-icon-black.svg.png" alt="c" width="20" height="20"/> The Unlicense를 따릅니다.
 
