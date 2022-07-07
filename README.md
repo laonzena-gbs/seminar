@@ -21,6 +21,7 @@
 
 
 ### 2-2 파이썬 PPT
+
     [파이썬 PPT 바로가기] (https://github.com/laonzena-gbs/seminar/blob/main/00%20%ED%8C%8C%EC%9D%B4%EC%8D%AC/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%84%B8%EB%AF%B8%EB%82%98.pdf)
 
 
@@ -37,7 +38,7 @@
 ### 4-1 프랙탈
 발표자: 2학년 공현성  
 발표 예정일:   
-
+d
     [자료 바로가기](https://github.com/laonzena-gbs/seminar/tree/main/01%20%ED%94%84%EB%9E%99%ED%83%88)  
 
 프랙탈 관련 자료입니다.  
