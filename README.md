@@ -21,8 +21,8 @@
 
 
 ### 2-2 파이썬 PPT
-
-    [파이썬 PPT 바로가기] (https://github.com/laonzena-gbs/seminar/blob/main/00%20%ED%8C%8C%EC%9D%B4%EC%8D%AC/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%84%B8%EB%AF%B8%EB%82%98.pdf)
+[파이썬 PPT 바로가기] (https://github.com/laonzena-gbs/seminar/blob/main/00%20%ED%8C%8C%EC%9D%B4%EC%8D%AC/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%84%B8%EB%AF%B8%EB%82%98.pdf)  
+    https://github.com/laonzena-gbs/seminar/blob/main/00%20%ED%8C%8C%EC%9D%B4%EC%8D%AC/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%84%B8%EB%AF%B8%EB%82%98.pdf
 
 
 ---
@@ -38,16 +38,16 @@
 ### 4-1 프랙탈
 발표자: 2학년 공현성  
 발표 예정일:   
-d
-    [자료 바로가기](https://github.com/laonzena-gbs/seminar/tree/main/01%20%ED%94%84%EB%9E%99%ED%83%88)  
+[자료 바로가기](https://github.com/laonzena-gbs/seminar/tree/main/01%20%ED%94%84%EB%9E%99%ED%83%88)  
+    https://github.com/laonzena-gbs/seminar/tree/main/01%20%ED%94%84%EB%9E%99%ED%83%88  
 
 프랙탈 관련 자료입니다.  
 
 ### 4-2 pi
 발표자: 2학년 공현성  
 발표 예정일: 2022-07-06  
-  
-    [자료 바로가기](https://github.com/laonzena-gbs/seminar/tree/main/03%20%EC%9B%90%EC%A3%BC%EC%9C%A8)
+[자료 바로가기](https://github.com/laonzena-gbs/seminar/tree/main/03%20%EC%9B%90%EC%A3%BC%EC%9C%A8)  
+    https://github.com/laonzena-gbs/seminar/tree/main/03%20%EC%9B%90%EC%A3%BC%EC%9C%A8
   
 pi 관련 자료입니다.
 pi를 계산하는 방법은 정말로 여러가지가 있으므로 추후에 더 추가될 예정입니다.  
@@ -56,8 +56,8 @@ pi를 계산하는 방법은 정말로 여러가지가 있으므로 추후에 �
 적분 관련 자료입니다.  
 발표자: 2학년 신현진  
 발표 예정일:   
-  
-    [자료 바로가기](https://github.com/laonzena-gbs/seminar/tree/main/02%20%EC%A0%81%EB%B6%84)  
+[자료 바로가기](https://github.com/laonzena-gbs/seminar/tree/main/02%20%EC%A0%81%EB%B6%84)  
+    https://github.com/laonzena-gbs/seminar/tree/main/02%20%EC%A0%81%EB%B6%84  
   
 적분 관련 자료 및 구분구적법에 대한 내용입니다.
 아직 발표되지 않았습니다.
