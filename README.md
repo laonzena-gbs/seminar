@@ -38,7 +38,7 @@
 발표자: 2학년 공현성  
 발표 예정일:   
 
-    [https://github.com/laonzena-gbs/seminar/tree/main/01%20%ED%94%84%EB%9E%99%ED%83%88](https://github.com/laonzena-gbs/seminar/tree/main/01%20%ED%94%84%EB%9E%99%ED%83%88)  
+    [자료 바로가기](https://github.com/laonzena-gbs/seminar/tree/main/01%20%ED%94%84%EB%9E%99%ED%83%88)  
 
 프랙탈 관련 자료입니다.  
 
@@ -46,7 +46,7 @@
 발표자: 2학년 공현성  
 발표 예정일: 2022-07-06  
   
-    [https://github.com/laonzena-gbs/seminar/tree/main/03%20%EC%9B%90%EC%A3%BC%EC%9C%A8](https://github.com/laonzena-gbs/seminar/tree/main/03%20%EC%9B%90%EC%A3%BC%EC%9C%A8)
+    [자료 바로가기](https://github.com/laonzena-gbs/seminar/tree/main/03%20%EC%9B%90%EC%A3%BC%EC%9C%A8)
   
 pi 관련 자료입니다.
 pi를 계산하는 방법은 정말로 여러가지가 있으므로 추후에 더 추가될 예정입니다.  
@@ -56,7 +56,7 @@ pi를 계산하는 방법은 정말로 여러가지가 있으므로 추후에 �
 발표자: 2학년 신현진  
 발표 예정일:   
   
-    [https://github.com/laonzena-gbs/seminar/tree/main/02%20%EC%A0%81%EB%B6%84](https://github.com/laonzena-gbs/seminar/tree/main/02%20%EC%A0%81%EB%B6%84)  
+    [자료 바로가기](https://github.com/laonzena-gbs/seminar/tree/main/02%20%EC%A0%81%EB%B6%84)  
   
 적분 관련 자료 및 구분구적법에 대한 내용입니다.
 아직 발표되지 않았습니다.
