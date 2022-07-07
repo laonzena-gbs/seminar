@@ -21,7 +21,7 @@
 
 
 ### 2-2 PPT 다운로드
-    https://github.com/laonzena-gbs/seminar/blob/main/00%20%ED%8C%8C%EC%9D%B4%EC%8D%AC/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%84%B8%EB%AF%B8%EB%82%98.pdf
+    (https://github.com/laonzena-gbs/seminar/blob/main/00%20%ED%8C%8C%EC%9D%B4%EC%8D%AC/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%84%B8%EB%AF%B8%EB%82%98.pdf)
 
 
 ---
