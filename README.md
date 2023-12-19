@@ -10,8 +10,6 @@
 * [Visual Code 설치](https://code.visualstudio.com/download) 
 * [PyCharm 설치](https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)
 
----
-
 ## 2 시작
 ### 2-1 개요
 각 프로그램을 설치하는 방법, 파이썬에 대한 간략한 소개와 필요한 명령들에 대한 설명이 PPT로 준비되어 있습니다.
@@ -23,14 +21,10 @@
 ### 2-2 파이썬 PPT
 https://github.com/laonzena-gbs/seminar/blob/main/00%20%ED%8C%8C%EC%9D%B4%EC%8D%AC/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%84%B8%EB%AF%B8%EB%82%98.pdf
 
----
-
 ## 3 부가 설명
 ### 3-1 repository
 본 repositiory는 세미나를 위해 제작되었습니다.  
 각종 예제 코드를 삽입할 예정이고 새로 필요한 내용이 있으면 주기적으로 업데이트될 예정입니다. 동아리 활동마다 새로 필요한 파일이나 내용이 추가됩니다.
-
----
 
 ## 4 자료
 ### 4-1 프랙탈
@@ -56,8 +50,6 @@ pi를 계산하는 방법은 정말로 여러가지가 있으므로 추후에 �
   
 적분 관련 자료 및 구분구적법에 대한 내용입니다.
 아직 발표되지 않았습니다.
-
----
 
 ## 5 기타
 설명은 주기적으로 업데이트됩니다.
